@@ -5,4 +5,4 @@ Programming Project for EGM722 - Programming for GIS and Remote Sensing
 This README file contains all necessary instructions to set-up and install relevant softwares, prior to coding. 
 
 ### How to get started 
-Firstly, before installing `GitHub` to access relevant files, please ensure to create a __GitHub account__.  
+Firstly, before installing `GitHub` to access relevant files, please ensure to create a __GitHub account__.  Next, ensure that `git` is installed onto your computer from [here](https://git-scm.com/downloads), followed by `GitHub Desktop` from [here](https://github.com/apps/desktop), to upload and download changes to/from remote repositories and finally, dont forget to install `conda` 
