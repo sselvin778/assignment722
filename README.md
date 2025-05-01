@@ -22,6 +22,9 @@ To set up your `conda environment`, you first need to use the `environment.yml` 
 Before you begin to write your code, ensure that `jupyter-lab` has been __configured__ by changing the default launch directory to your project file location and by enabling the __terminal__ feature. 
 
 ### 5. External data sources and processing 
-Once all software’s and packages have been installed, the final step is to download relevant data for the code. Data pertaining settlements can be downloaded from NISRA as a shapefile from [here](https://www.nisra.gov.uk/publications/urban-rural-geography-documents-2015), which can be plugged straight into your project folder. 
+Once all software’s and packages have been installed, the final step is to download relevant data for the code. Data pertaining settlements can be __downloaded__ from `NISRA` as a shapefile from [here](https://www.nisra.gov.uk/publications/urban-rural-geography-documents-2015), which can be plugged straight into your project folder. 
 
-By utilising ArcGIS Online, layers for Northern Ireland greenspaces can be accessed from [here](https://www.arcgis.com/home/item.html?id=c809afd275dd4dd4a519638978bd304a) and layers for the off-road greenspace trails can be accessed from [here](https://www.arcgis.com/home/item.html?id=0c9184ef90704ecf9871ccff622dc721). Both of these layers need to be opened in `ArcGIS Pro`, whereby they should be __exported__ as __features__.  
+By utilising `ArcGIS Online`, layers for Northern Ireland greenspaces can be accessed from [here](https://www.arcgis.com/home/item.html?id=c809afd275dd4dd4a519638978bd304a) and layers for the off-road greenspace trails can be accessed from [here](https://www.arcgis.com/home/item.html?id=0c9184ef90704ecf9871ccff622dc721). Both of these layers need to be opened in `ArcGIS Pro`, whereby they should be __exported__ as __features__.  
+
+### Last step
+Please ensure you follow these steps in order to allow the formatting and processing functions to run smoothly. __Good luck!!!__
