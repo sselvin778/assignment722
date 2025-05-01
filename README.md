@@ -11,7 +11,7 @@ Firstly, before installing `GitHub` to access relevant files, please ensure to c
 Using the __URL__ to the repository link, __fork__ the repository into your account and then by using `GitHub desktop`, ensure that you __clone__ the repository from `GitHub`, onto the local drive. 
 
 ### 3. Creating the conda environment 
-To set up your `conda environment`, you first need to use the `environment.yml` provided in the repository and __import__ it into `Anaconda Navigator`. Also make sure to include the essential __dependenices__ needed to run the code including:
+To set up your `conda environment`, you first need to use the `environment.yml` provided in the repository and __import__ it into `Anaconda Navigator`. Also make sure to include the essential __dependenices__ needed to run the code which includes as follows:
 
 1. `Python`
 2. `Geopandas`
